@@ -34,9 +34,15 @@ Metrics used are R squared and Root mean squared error.
 
 For Linear Regression R squrared score is about 80%
 
+10-Fold cross validation is 80% and Training is score is 82%
+
 ## Conclusion
 Best Model : RandomForestRegressor
-R squared score is 86%.
+R squared score is 85%.
+
+10-Fold Cross Validation score is 85%.
+
+Training score is 88%.
 
 ## Author
 **Pintu Kumar**
