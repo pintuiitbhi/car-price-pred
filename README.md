@@ -1,6 +1,4 @@
-# Project Title
-
-Predict Used Car Prices
+# Predict Used Car Prices
 
 ### Installing
 
