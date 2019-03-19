@@ -13,10 +13,10 @@ libraries and dependencies required to run this notebook is mentioned in "requir
 3. actual_price_test.tsv : It contains the actual Price of test dataset
 4. OLX_Car_Data_CSV.csv : Dataset downloaded from the kaggle website
 
-#### Split the Dataset
+## Split the Dataset
 train and test data consists of 70% and 30%.
 
-### Preprocessing
+## Preprocessing
 #### Feature Engineering
 I have added one feature called "Damaged". If "KMs Driven" is more than 2000000 than it is too old else it is just old.
 
@@ -24,11 +24,11 @@ I have added one feature called "Damaged". If "KMs Driven" is more than 2000000 
 #### Handling Missing Values
 I have used dummy variable to replace NaN for some features which seems important.
 
-### Training
+## Training
 #### Model
 I have used Linear Regression and RandomForestRegressor
 
-### Evaluation
+## Evaluation
 #### Metrics
 Metrics used are R squared and Root mean squared error.
 
