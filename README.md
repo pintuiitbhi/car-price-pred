@@ -6,7 +6,7 @@ Predict Used Car Prices
 
 libraries and dependencies required to run this notebook is mentioned in "requirements.txt"
 
-## Running the tests
+## Datasets
 
 1. Submission.tsv : It contains the final prediction of test dataset.
 2. cleaned_test_set.tsv : It contains the preprocessed test dataset.
@@ -34,4 +34,5 @@ Metrics used are R squared and Root mean squared error.
 
 ## Author
 **Pintu Kumar**
-**3rd Year IIT Bhilai Student**
+**3rd Year 
+IIT Bhilai Student**
