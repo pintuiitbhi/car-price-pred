@@ -31,6 +31,11 @@ I have used Linear Regression and RandomForestRegressor
 ## Evaluation
 #### Metrics
 Metrics used are R squared and Root mean squared error.
+
+For Linear Regression R squrared score is about 80%
+
+## Conclusion
+Best Model : RandomForestRegressor
 R squared score is 86%.
 
 ## Author
