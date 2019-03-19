@@ -31,6 +31,7 @@ I have used Linear Regression and RandomForestRegressor
 ## Evaluation
 #### Metrics
 Metrics used are R squared and Root mean squared error.
+R squared score is 86%.
 
 ## Author
 **Pintu Kumar**
